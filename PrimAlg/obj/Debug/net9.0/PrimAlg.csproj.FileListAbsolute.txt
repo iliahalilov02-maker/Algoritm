@@ -1,0 +1,15 @@
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\bin\Debug\net9.0\PrimAlg.exe
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\bin\Debug\net9.0\PrimAlg.deps.json
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\bin\Debug\net9.0\PrimAlg.runtimeconfig.json
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\bin\Debug\net9.0\PrimAlg.dll
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\bin\Debug\net9.0\PrimAlg.pdb
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.AssemblyInfoInputs.cache
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.AssemblyInfo.cs
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.csproj.CoreCompileInputs.cache
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.sourcelink.json
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.dll
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\refint\PrimAlg.dll
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.pdb
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\PrimAlg.genruntimeconfig.cache
+C:\Users\Velor\MemoryLifecycle\PrimAlg\PrimAlg\obj\Debug\net9.0\ref\PrimAlg.dll
