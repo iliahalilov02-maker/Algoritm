@@ -1,0 +1,32 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Прочее
+*.log
